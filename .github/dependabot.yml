@@ -4,6 +4,6 @@ updates:
     vendor: true
     directory: "/"
     schedule:
-      interval: "weekly"
+      interval: "daily"
     labels:
       - dependencies
