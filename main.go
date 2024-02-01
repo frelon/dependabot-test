@@ -6,4 +6,5 @@ import (
 
 func main() {
 	slog.Info("test")
+	slog.Info("test2")
 }
